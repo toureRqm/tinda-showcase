@@ -14,7 +14,7 @@
 
 ---
 
-> ⚠️ **Repo vitrine.** Cette page présente le projet **Tinda**. Le code source (application + API) est **privé et propriétaire** — projet sensible, non publié. Contact en bas de page.
+> ⚠️ **Repo vitrine.** Cette page présente le projet **Tinda**. Le code source (application et API) est **privé et propriétaire**. Projet sensible, non publié. Contact en bas de page.
 
 ## 🎯 Le projet
 
@@ -26,7 +26,7 @@
 - 📊 **Historique des transactions** et suivi en temps réel
 - 👤 **Comptes & authentification** sécurisés
 - 🔌 **API REST** dédiée pour les opérations et intégrations
-- 🔐 **Sécurité** — validation des opérations et protection des données sensibles
+- 🔐 **Sécurité** : validation des opérations et protection des données sensibles
 
 ## 🛠️ Stack technique
 
@@ -46,4 +46,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39D353)](https://portfolio-production-a292.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:abdou.toure.dev@gmail.com)
 
-<sub>© Abdou Rahmane Toure — ToureTech. Tous droits réservés. Code source propriétaire.</sub>
+<sub>© Abdou Rahmane Toure · ToureTech. Tous droits réservés. Code source propriétaire.</sub>
